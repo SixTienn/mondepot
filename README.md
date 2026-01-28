@@ -1,1 +1,1 @@
-C'est le read me.
+Dépôt pour le tp C'est un projet d'apprentissage pour git
